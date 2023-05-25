@@ -1,0 +1,42 @@
+.student-name {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.student-fee-status {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.fee-details {
+  margin-top: 20px;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.form-select,
+.form-input {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+}
+
+.form-submit-button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.form-submit-button:hover {
+  background-color: #45a049;
+}
